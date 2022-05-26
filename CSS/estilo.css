@@ -1,0 +1,431 @@
+    * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    }
+
+    .body{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    body{
+        background: url(../Img/fondoburger2.jpg) no-repeat center center fixed;
+        min-height: 100vh;
+        font-family: 'Lato', sans-serif;
+        color: white;
+        background-size: cover;
+        width: 100%;
+
+    }
+
+    .header{
+        width: 100%;
+        min-height: 35vh;
+        color: white;
+        font-family: 'Lato', sans-serif;
+        display: flex;
+        flex-direction: column; 
+        justify-content: center;
+        align-items: center;
+    }
+    
+    
+    
+    
+  
+    .header__logo{
+        width: 275px;
+        height: 275px;
+        padding: 0px;
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: flex-end;   
+    }
+    .header__logo a{
+        width: 100%;
+        height: 50%;
+    }
+    
+    .logo{
+        width: 100%;
+        height: 100%;
+        
+        
+    }
+
+    
+    
+    .header__menu{
+        list-style: none;
+        font-family: 'Prompt', sans-serif;
+        font-size: 35px;
+        font-weight: bold;
+    }
+
+   .header__lista{
+       list-style: none;
+       display: flex;
+       margin-top: 15px;
+       width: 100%;
+       height: 80px;
+
+
+   }
+   .active{
+       color: rgb(143, 143, 143);
+   }
+   .header__lista>li{
+       margin-left: 10px;
+       margin-right: 10px;
+
+   }
+        
+
+ 
+
+
+    a:hover{
+    color: grey;
+    cursor: pointer;
+    }
+
+
+
+
+
+   
+
+    a{ 
+        color: white;
+        text-decoration: none;
+        display: flex;
+
+    }
+
+    main{
+        width: 100%;
+        min-height: 35vh;
+        color: white;
+        font-family: 'Lato', sans-serif;
+        display: flex;
+        flex-direction: column; 
+        justify-content: center;
+        align-items: center;
+    }
+
+    h1{
+        width: 30%;
+        height: 50%;
+        text-align: center;
+        font-size: 50px;
+        font-family: 'Dancing Script', cursive; 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+        
+
+  
+
+
+
+
+    
+    footer{
+        width: 100%;
+        min-height: 15vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        
+        
+    }
+
+    .footer__ul{
+        display: flex;
+        list-style: none;
+        justify-content: space-evenly;
+        align-items: center;
+        height: 100%;
+        width: 300px;
+        
+    }
+
+    .footer__redes{
+        width: 50px;
+        height: 50px;
+    }
+
+    .main{
+        
+        width: 100%;
+
+    }
+
+    .main__h1{
+        width: auto;
+        display: flex;
+    }
+
+    .main__p{
+        text-align: center;
+    }
+
+    .main__h2{
+        text-align: center;
+    }
+    
+ 
+
+   .hamburger{
+       width: 500px;
+       height: 650px;
+
+   }
+
+
+   .main__hamburger{
+        background-color: rgba(0, 0, 0, 0.555);
+        padding: 20px;
+        width: 80%;
+        height: auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        padding: 10px;
+        justify-items: center;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+        
+   }
+
+   .div__hamburger{
+       width: 45%;
+       display: flex;
+       justify-content: center;
+       flex-wrap: wrap;
+       align-items: center;
+       justify-self: center;
+       align-self: center;
+       
+           
+   }
+
+   
+   
+   
+
+    
+    .hamburger__menu{
+        width: 60%;
+        height: 60%;
+       
+    }   
+
+       
+
+
+    .div__texto{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .p__menu{
+        font-size: 20px;
+        
+    }
+    
+    .formulario{
+        height: 250px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 20px;
+        background-color: rgba(0, 0, 0, 0.548);
+    }
+
+    .h3__nosotros{
+        margin-top: 30px;
+    }
+
+    .main__nosotros{
+        font-size: 25px;
+    }
+
+    
+
+    .main__novedades{
+       
+        
+        padding: 20px;
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .div__novedades{
+        background-color: rgba(0, 0, 0, 0.555);
+        padding: 20px;
+        width: 80%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        
+   }
+
+   .div__noticias{
+        width: 45%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        
+
+   }
+
+  
+    
+    
+
+    .imgnovedades{
+     width: 60%;
+     height: 80%;
+     border: 5px solid rgb(0, 0, 0);
+     
+     
+     
+    }   
+
+    .div__titular{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        font-size: 30px;
+    } 
+
+    .main__locales{
+        font-size: 25px;
+
+    }
+
+    .div__locales{
+        padding: 20px;
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    @media screen and (max-width: 576px) {
+
+        body{
+            background: url(../Img/fondophone.jpg) no-repeat center center fixed;
+        }
+
+       
+
+        .header__lista{
+            flex-direction: column;
+            height: 100%;
+
+        }
+
+        .header{
+            height: 80vh;
+            justify-content: start;
+        }
+        
+        nav.header__menu{
+            height: 100%;
+            
+
+        }
+        
+        ul.header__lista{
+            justify-content: center;
+            justify-items: center;
+            align-items: center;
+            align-content: center;
+            font-size: 25px;
+            
+        }
+        
+        footer.footer{
+            height: 100px;
+        }
+        
+        
+
+        .main__hamburger{
+            grid-template-columns: 1fr;
+        }
+
+        .h1__burger{
+            font-size: 35px;
+        }
+
+        .p__menu{
+            font-size: 15px;
+        }
+
+        .main__h1{
+            font-size: 35px;
+        }
+
+        .main__p{
+            font-size: 15px;
+        }
+
+        .main__h2{
+            font-size: 30px;
+        }
+
+        .h3__nosotros{
+            font-size: 25px;
+        }
+
+        .formulario{
+            font-size: 15px;
+        }
+        .main__nosotros{
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+        .div__novedades{
+            flex-direction: column;
+            align-items: center;
+            
+                  
+        }
+
+        .p__noticias{
+            font-size: 15px;
+        }
+
+        p{
+            font-size: 15px;
+        }
+
+        .main__novedades{
+            min-height: 50vh;
+        }
+        }
+        
+
+        

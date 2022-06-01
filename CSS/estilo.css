@@ -196,7 +196,7 @@
 
 
    .main__hamburger{
-        background-color: rgba(0, 0, 0, 0.555);
+        
         padding: 20px;
         width: 80%;
         height: auto;
@@ -438,5 +438,8 @@
         }
         }
         
+        .div__col__d-flex__justify-content-center{
+            background-color: rgba(0, 0, 0, 0.384);
+        }
 
         

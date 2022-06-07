@@ -120,6 +120,8 @@
         align-items: center;
     }
 
+    
+
     h1{
         width: 30%;
         height: 50%;
@@ -170,6 +172,7 @@
     .main{
         
         width: 100%;
+
 
     }
 
@@ -257,7 +260,7 @@
     }
     
     .formulario{
-        height: 250px;
+        height: 350px;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -330,6 +333,9 @@
 
     .main__locales{
         font-size: 25px;
+        display: flex;
+        flex-direction: row;
+
 
     }
 
@@ -347,6 +353,8 @@
         body{
             background: url(../Img/fondophone.jpg) no-repeat center center fixed;
         }
+
+        
 
        
 
@@ -427,6 +435,7 @@
 
         .p__noticias{
             font-size: 15px;
+            font-family: 'Courier New', Courier, monospace;
         }
 
         p{
@@ -442,4 +451,39 @@
             background-color: rgba(0, 0, 0, 0.384);
         }
 
-        
+        .navbar__navbar-expand-lg__navbar-dark{
+            font-size: 100px;
+        }
+
+        .navbar{
+            font-size: 30px;
+        }
+
+       .slide{
+           margin-top: 10px;
+           
+       }
+
+       .slide img{
+           height: 60vh;
+           
+           
+       }
+
+       .carousel{
+           display: flex;
+           justify-content: center;
+       }
+
+       .card-title{
+           color: black;
+           font-weight: bold;
+       }
+
+       .card-text{
+           color: black;
+       }
+
+       .card-link{
+           color: black;
+       }

@@ -333,8 +333,7 @@
 
     .main__locales{
         font-size: 25px;
-        display: flex;
-        flex-direction: row;
+        width: 100%;
 
 
     }
@@ -486,4 +485,10 @@
 
        .card-link{
            color: black;
+       }
+
+       .imgcarousel{
+           object-fit: contain !important;
+           
+
        }

@@ -1,0 +1,18 @@
+.header {
+    width: 100%;
+    min-height: 35vh;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    & &__logo {
+        width: 275px;
+        height: 275px;
+        padding: 0px;
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: flex-end;
+    }

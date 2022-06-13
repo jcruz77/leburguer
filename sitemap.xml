@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/jcruz77/leburguer</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/issues</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/pulls</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/actions</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/projects?type=beta</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/security</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/commit/c3d6515da74184b71aaa36ee71ed2ffe376ec595</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/blob/master/index.html</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/releases</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/compare</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/actions/runs/2465138435</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/actions/runs/2464718921</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/actions/runs/2451791500</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/actions/runs/2451378055</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/actions/runs/2425030317</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/actions/runs/2424645821</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/actions/runs/2411267372</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/projects</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/security/policy</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/security/advisories</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/commit/28b55fc12a3067d53135b64f4ba603f62c1dfb77</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/blob/c3d6515da74184b71aaa36ee71ed2ffe376ec595/index.html</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/find/master</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels?sort=name-asc</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels?sort=name-desc</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels?sort=count-desc</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels?sort=count-asc</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels/bug</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels/documentation</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels/duplicate</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels/enhancement</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels/good%20first%20issue</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels/help%20wanted</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels/invalid</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels/question</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/labels/wontfix</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?state=open</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?state=closed</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6803978707?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6803985616?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6803985516?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6802891825?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6802898487?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6802898392?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6766689441?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6766695736?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6766695674?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/commit/6a06750c06cde484a2f7d46d24833fb96f881cbb</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6765598570?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6765604869?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6765604786?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/commit/d65ade83d6472aece344251710235e58684b9fc6</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6699593370?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6699602648?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6699602549?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/commit/70341175809a20f1e9ef606bda63af187a2dff3f</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6698508346?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6698518183?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6698518297?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/commit/d943aa041a9d02150a3fa7f4e302b9dc40194fb5</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6661001139?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6661007989?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/runs/6661008133?check_suite_focus=true</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/commit/1e63052a37335f43ed28c1beac2440ef86549e4e</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/security/advisories?state=published</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/find/c3d6515da74184b71aaa36ee71ed2ffe376ec595</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jcruz77/leburguer/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-06-13T20:20:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>

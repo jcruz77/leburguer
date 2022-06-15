@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8"> <!-- cod. caracteres -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- responsive -->
-	<title>LEBURGUER</title>
+	<title>LEBURGUER | Hamburguesas</title>
 	<link rel="shorcut icon" href="./Img/logoleburguer.jpg" type="image/x-icon">
 	
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,8 +16,10 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 <!-- CSS only -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
-
+<link rel="stylesheet" href="./sass/style.css" />
 <link rel="stylesheet" href="./CSS/estilo.css" />
+<meta name="description" content="Descubrí el verdadero sabor de la hamburguesa!">
+<meta name="keywords" content="hamburguesa,hamburgueseria,delivery,local de comida rápida en Córdoba,restaurant,come bien,comida en Córdoba">
 </head>
 <body class="body">
 	
@@ -72,13 +74,13 @@
 	<main class="row">		
 		<div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
 			<div class="carousel-inner">
-			  <div class="carousel-item active ">
+			  <div class="carousel-item active">
 				<img src="../repositorio-github/Img/burger3.jpg" class="d-block w-100  imgcarousel" alt="...">
 			  </div>
-			  <div class="carousel-item ">
+			  <div class="carousel-item">
 				<img src="../repositorio-github/Img/localfrutas.jpg" class="d-block w-100 imgcarousel" alt="...">
 			  </div>
-			  <div class="carousel-item ">
+			  <div class="carousel-item">
 				<img src="../repositorio-github/Img/reciclaje.jpg" class="d-block w-100 imgcarousel" alt="...">
 			  </div>
 			</div>
@@ -94,26 +96,43 @@
 	</main>
 	
 	
-	<div>
-		<footer class="row"><!-- inicio footer -->
+	<div class="d-flex justify-content-center">
+		<div>
+			<footer class="row"><!-- inicio footer -->
 				<ul class="footer__ul">
-						<li>
-							<a href="https://www.instagram.com/">
-									<img src="Img/logoinstagram.png" class="footer__redes">
-							</a>	
-						</li>
-						<li>
-							<a href="https://www.facebook.com/">
-								<img src="./Img/logofacebook.png" class="footer__redes">
-							</a>	
-						</li>
-						<li>
-							<a href="https://www.whatsapp.com/">
-								<img src="./Img/logowsp.png" class="footer__redes">
-							</a>	
-						</li>
-				</ul>
-		</footer><!-- cierre footer -->
+					<li>
+						<a href="https://www.instagram.com/">
+								<img src="Img/logoinstagram.png" class="footer__redes">
+						</a>	
+					</li>
+					<li>
+						<a href="https://www.facebook.com/">
+							<img src="./Img/logofacebook.png" class="footer__redes">
+						</a>	
+					</li>
+					<li>
+						<a href="https://www.whatsapp.com/">
+							<img src="./Img/logowsp.png" class="footer__redes">
+						</a>	
+					</li>
+				</ul>			
+		</div>
+				<div class="d-flex flex-row mt-5">
+					<div class="d-flex flex-column mx-3">
+						<h2>Sobre LEBURGUER</h2>
+						<a href="./pages/nosotros.html">Nosotros</a>
+					</div>
+					<div class="d-flex flex-column mx-3">
+						<h2>Menu</h2>
+						<a href="./pages/menu.html">Hamburguesas</a>
+						<a href="./pages/menu.html">Bebidas</a>
+					</div>
+					<div class="d-flex flex-column mx-3">
+						<h2>Nuestros locales</h2>
+						<a href="./pages/locales.html">Locales</a>
+				</div>
+			</footer>			
+		</div>
 	</div>
 	
 

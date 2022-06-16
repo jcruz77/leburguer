@@ -2,6 +2,26 @@
 
 $marginSlide: 10px;
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    }
+
+.body{
+    display: grid;
+    grid-template-columns: 1fr;
+    body{
+        background: url(../Img/fondoburger2.jpg) no-repeat center center fixed;
+        min-height: 100vh;
+        font-family: 'Lato', sans-serif;
+        color: white;
+        background-size: cover;
+        width: 100%;
+    }    
+}
+    
 main {
     .slide{
         margin-top: $marginSlide;
@@ -94,8 +114,115 @@ $colores: (
     color: white;
 }
 
+/* page nosotros */ 
 
+.main__nosotros{
+    font-size: 25px;
+    .main{ 
+        width: 100%;
+        .main__valores{
+            margin-top: 80px;
+            .main__h1{
+                width: auto;
+                display: flex;
+            }
+            .main__h2{
+                text-align: center;
+            }
+            .main__p{
+                text-align: center;
+            }
+        }
+    .h3__nosotros{
+        margin-top: 30px;
+    }
+    .formulario{
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 20px;
+        background-color: rgba(0, 0, 0, 0.548);
+        font-size: 15px;
+        }
+    }
+}
 
+/* menu nosotros */ 
 
+.main__hamburger{
+    grid-template-columns: 1fr;
+    .div__hamburger{
+        width: 45%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-self: center;
+        align-self: center;
+        .hamburger__menu{
+            width: 60%;
+            height: 60%;
+        }
+        .div__texto{
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            .h1__burger{
+                font-size: 35px;
+            }
+            .p__menu{
+                font-size: 20px;
+            }
+        }
+    }
+} 
 
+/* locales nosotros */ 
+
+.main__locales{
+    font-size: 25px;
+    width: 100%;
+    .card-title{
+        color: black;
+        font-weight: bold;
+    }
+    .card-text{
+        color: black;
+    }
+}
+
+/* novedades nosotros */ 
+
+.main__novedades{    
+    padding: 20px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    .div__novedades{
+        background-color: rgba(0, 0, 0, 0.555);
+        padding: 20px;
+        width: 80%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        .div__titular{
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            font-size: 30px;
+            .p__noticias{
+                font-size: 15px;
+                font-family: 'Courier New', Courier, monospace;
+            }
+        }
+    }
+}        
 

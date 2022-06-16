@@ -59,6 +59,33 @@
   font-size: 30px;
 }
 
+.header .navbar .active, .header--center .navbar .active, .header--start .navbar .active {
+  color: #8f8f8f;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.body {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+}
+
+.body body {
+  background: url(../Img/fondoburger2.jpg) no-repeat center center fixed;
+  min-height: 100vh;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  background-size: cover;
+  width: 100%;
+}
+
 main .slide {
   margin-top: 10px;
 }
@@ -175,5 +202,176 @@ footer footer__ul footer footer__ul__redes {
       -ms-flex-align: center;
           align-items: center;
   color: white;
+}
+
+/* page nosotros */
+.main__nosotros {
+  font-size: 25px;
+}
+
+.main__nosotros .main {
+  width: 100%;
+}
+
+.main__nosotros .main .main__valores {
+  margin-top: 80px;
+}
+
+.main__nosotros .main .main__valores .main__h1 {
+  width: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.main__nosotros .main .main__valores .main__h2 {
+  text-align: center;
+}
+
+.main__nosotros .main .main__valores .main__p {
+  text-align: center;
+}
+
+.main__nosotros .main .h3__nosotros {
+  margin-top: 30px;
+}
+
+.main__nosotros .main .formulario {
+  height: 350px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.548);
+  font-size: 15px;
+}
+
+/* menu nosotros */
+.main__hamburger {
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+}
+
+.main__hamburger .div__hamburger {
+  width: 45%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  justify-self: center;
+  -ms-flex-item-align: center;
+      align-self: center;
+}
+
+.main__hamburger .div__hamburger .hamburger__menu {
+  width: 60%;
+  height: 60%;
+}
+
+.main__hamburger .div__hamburger .div__texto {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.main__hamburger .div__hamburger .div__texto .h1__burger {
+  font-size: 35px;
+}
+
+.main__hamburger .div__hamburger .div__texto .p__menu {
+  font-size: 20px;
+}
+
+/* locales nosotros */
+.main__locales {
+  font-size: 25px;
+  width: 100%;
+}
+
+.main__locales .card-title {
+  color: black;
+  font-weight: bold;
+}
+
+.main__locales .card-text {
+  color: black;
+}
+
+/* novedades nosotros */
+.main__novedades {
+  padding: 20px;
+  width: 100%;
+  height: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.main__novedades .div__novedades {
+  background-color: rgba(0, 0, 0, 0.555);
+  padding: 20px;
+  width: 80%;
+  height: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.main__novedades .div__novedades .div__titular {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 30px;
+}
+
+.main__novedades .div__novedades .div__titular .p__noticias {
+  font-size: 15px;
+  font-family: 'Courier New', Courier, monospace;
 }
 /*# sourceMappingURL=style.css.map */

@@ -10,7 +10,7 @@
         grid-template-columns: 1fr;
     }
 
-    body{
+    .body{
         background: url(../Img/fondoburger2.jpg) no-repeat center center fixed;
         min-height: 100vh;
         font-family: 'Lato', sans-serif;
@@ -19,6 +19,8 @@
         width: 100%;
 
     }
+
+    /* header */
 
     .header{
         width: 100%;
@@ -31,10 +33,6 @@
         align-items: center;
     }
     
-    
-    
-    
-  
     .header__logo{
         width: 275px;
         height: 100px;
@@ -44,6 +42,7 @@
         flex-direction: row;
         align-items: flex-end;   
     }
+    
     .header__logo a{
         width: 100%;
         height: 100%;
@@ -55,58 +54,64 @@
         display: block;
         display: flex;
         justify-content: center;
-        width: 100%
-        
-        
+        width: 100%   
     }
 
     
-    
-    .header__menu{
-        list-style: none;
-        font-family: 'Prompt', sans-serif;
-        font-size: 35px;
-        font-weight: bold;
-    }
-
-   .header__lista{
-       list-style: none;
-       display: flex;
-       margin-top: 15px;
-       width: 100%;
-       height: 80px;
-
-
-   }
    .active{
        color: rgb(143, 143, 143);
    }
-   .header__lista>li{
-       margin-left: 10px;
-       margin-right: 10px;
-
-   }
-        
-
- 
-
-
+   
     a:hover{
     color: grey;
     cursor: pointer;
     }
 
 
-
-
-
-   
-
     a{ 
         color: white;
         text-decoration: none;
         display: flex;
+    }
 
+    /* page index */
+
+    .navbar{
+        font-size: 30px;
+    }
+
+   .slide{
+       margin-top: 10px;  
+    }
+
+   .slide img{
+       height: 60vh;  
+    }
+
+   .carousel{
+       display: flex;
+       justify-content: center;
+    }    
+
+   
+   .imgcarousel{
+       object-fit: contain !important;
+    }
+
+    .h5__carousel{
+        text-shadow: 0 0 5px rgb(0, 0, 0);
+        font-size: 40px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .leburguer{
+        font-size: 70px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    /* page nosotros */
+
+    .main__nosotros{
+        font-size: 25px;
     }
 
     main{
@@ -120,60 +125,8 @@
         align-items: center;
     }
 
-    
-
-    h1{
-        width: 30%;
-        height: 50%;
-        text-align: center;
-        font-size: 80px;
-        font-family: 'Dancing Script', cursive; 
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        
-
-
-    }
-        
-
-  
-
-
-
-
-    
-    footer{
-        width: 100%;
-        min-height: 15vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        
-        
-        
-    }
-
-    .footer__ul{
-        display: flex;
-        list-style: none;
-        justify-content: space-evenly;
-        align-items: center;
-        height: 100%;
-        width: 300px;
-        
-    }
-
-    .footer__redes{
-        width: 50px;
-        height: 50px;
-    }
-
-    .main{
-        
-        width: 100%;
-
-
+    .main__valores{
+        margin-top: 80px;
     }
 
     .main__h1{
@@ -188,75 +141,9 @@
     .main__h2{
         text-align: center;
     }
-    
- 
 
-   .hamburger{
-       width: 500px;
-       height: 650px;
-
-   }
-
-
-   .main__hamburger{
-        
-        padding: 20px;
-        width: 80%;
-        height: auto;
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1fr 1fr;
-        padding: 10px;
-        justify-items: center;
-        align-items: center;
-        justify-content: center;
-        align-content: center;
-        
-   }
-
-   .div__hamburger{
-       width: 45%;
-       display: flex;
-       justify-content: center;
-       flex-wrap: wrap;
-       align-items: center;
-       justify-self: center;
-       align-self: center;
-       
-           
-   }
-
-   
-   
-   
-
-    
-    .hamburger__menu{
-        width: 60%;
-        height: 60%;
-
-       
-    }
-    
-    .div__hamburger:hover{
-        transform: scale(2, 2);
-        transition: all 1s;
-    }
-
-       
-
-
-    .div__texto{
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .p__menu{
-        font-size: 20px;
-        
+    .h3__nosotros{
+        margin-top: 30px;
     }
     
     .formulario{
@@ -267,16 +154,80 @@
         padding: 20px;
         background-color: rgba(0, 0, 0, 0.548);
     }
-
-    .h3__nosotros{
-        margin-top: 30px;
-    }
-
-    .main__nosotros{
-        font-size: 25px;
-    }
-
     
+    /* page menu  */ 
+
+    .main__hamburger{
+        padding: 20px;
+        width: 80%;
+        height: auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        padding: 10px;
+        justify-items: center;
+        align-items: center;
+        justify-content: center;
+        align-content: center;  
+    }
+    
+    .div__hamburger{
+        width: 45%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-self: center;
+        align-self: center;       
+    }
+
+    .div__hamburger:hover{
+        transform: scale(2, 2);
+        transition: all 1s;
+    }
+
+    .hamburger__menu{
+        width: 60%;
+        height: 60%;
+    }
+    
+    .div__texto{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .h1__burger{
+        font-size: 35px;
+    }
+
+    .p__menu{
+        font-size: 20px;
+    }
+    
+    /* page locales */
+    
+    .main__locales{
+        font-size: 25px;
+        width: 100%;
+    }
+    
+    .card-title{
+        color: black;
+        font-weight: bold;
+    }
+
+    .card-text{
+        color: black;
+    }
+    
+    .card-link{
+        color: black;
+    }
+    
+    /* page novedades */ 
 
     .main__novedades{
         padding: 20px;
@@ -294,31 +245,8 @@
         height: auto;
         display: flex;
         justify-content: center;
-        flex-wrap: wrap;
-        
-   }
-
-   .div__noticias{
-        width: 45%;
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        
-
-   }
-
-  
-    
-    
-
-    .imgnovedades{
-     width: 60%;
-     height: 80%;
-     border: 5px solid rgb(0, 0, 0);
-     
-     
-     
-    }   
+        flex-wrap: wrap;   
+    }
 
     .div__titular{
         width: 100%;
@@ -329,21 +257,38 @@
         font-size: 30px;
     } 
 
-    .main__locales{
-        font-size: 25px;
-        width: 100%;
-
-
+    .p__noticias{
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
     }
 
-    .div__locales{
-        padding: 20px;
+    /* footer */
+    
+    footer{
         width: 100%;
-        height: auto;
+        min-height: 15vh;
         display: flex;
         justify-content: center;
-        flex-wrap: wrap;
+        align-items: center; 
     }
+
+    .footer__ul{
+        display: flex;
+        list-style: none;
+        justify-content: space-evenly;
+        align-items: center;
+        height: 100%;
+        width: 300px;    
+    }
+
+    .footer__redes{
+        width: 50px;
+        height: 50px;
+    }
+
+
+
+    
 
     @media screen and (max-width: 576px) {
 
@@ -399,17 +344,7 @@
             font-size: 15px;
         }
 
-        .main__h1{
-            font-size: 35px;
-        }
-
-        .main__p{
-            font-size: 15px;
-        }
-
-        .main__h2{
-            font-size: 30px;
-        }
+        
 
         .h3__nosotros{
             font-size: 25px;
@@ -445,45 +380,7 @@
 
         
 
-        .navbar{
-            font-size: 30px;
-        }
-
-       .slide{
-           margin-top: 10px;
-           
-       }
-
-       .slide img{
-           height: 60vh;
-           
-           
-       }
-
-       .carousel{
-           display: flex;
-           justify-content: center;
-       }
-
-       .card-title{
-           color: black;
-           font-weight: bold;
-       }
-
-       .card-text{
-           color: black;
-       }
-
-       .card-link{
-           color: black;
-       }
-
-       .imgcarousel{
-           object-fit: contain !important;
-        }
-
-        .main__valores{
-            margin-top: 80px;
-        }
+        
+        
 
        

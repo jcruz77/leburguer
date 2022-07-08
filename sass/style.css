@@ -204,6 +204,20 @@ footer footer__ul footer footer__ul__redes {
   color: white;
 }
 
+/* index*/
+body {
+  background-color: black;
+}
+
+.imgcarousel {
+  background-position: center;
+  background-size: cover;
+}
+
+.h5 {
+  font-size: 20px;
+}
+
 /* page nosotros */
 .main__nosotros {
   font-size: 25px;

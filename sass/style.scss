@@ -114,6 +114,17 @@ $colores: (
     color: white;
 }
 
+/* index*/ 
+body{
+    background-color: black;
+}
+.imgcarousel{
+    background-position: center;
+    background-size: cover;
+}
+.h5{
+    font-size: 20px;
+}
 /* page nosotros */ 
 
 .main__nosotros{
@@ -148,7 +159,7 @@ $colores: (
     }
 }
 
-/* menu nosotros */ 
+/* page menu  */ 
 
 .main__hamburger{
     grid-template-columns: 1fr;
@@ -180,7 +191,7 @@ $colores: (
     }
 } 
 
-/* locales nosotros */ 
+/* page locales  */ 
 
 .main__locales{
     font-size: 25px;
